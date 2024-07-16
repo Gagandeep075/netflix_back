@@ -16,7 +16,7 @@ app.use(cookieParser());
 
 
 app.use(cors( {
-    origin: 'https://6696dbc9c891102a6ea26a9e--jovial-kleicha-0c3dbd.netlify.app/',
+    origin: 'https://jovial-kleicha-0c3dbd.netlify.app',
     credentials: true
 }));
 
