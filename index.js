@@ -17,7 +17,7 @@ app.use(cookieParser());
 
 // Update CORS configuration
 const corsOptions = {
-  origin: 'https://jovial-kleicha-0c3dbd.netlify.app',
+  origin: 'https://netlfix-clone-gagan.netlify.app',
   credentials: true,
   optionsSuccessStatus: 200, // For legacy browser support
 };
