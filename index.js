@@ -17,7 +17,7 @@ app.use(cookieParser());
 
 // Update CORS configuration
 const corsOptions = {
-  origin: 'http://localhost:3000',
+  origin: 'https://netflix-clone-gagan-2.netlify.app',
   credentials: true,
   optionsSuccessStatus: 200, // For legacy browser support
 };
