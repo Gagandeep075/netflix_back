@@ -17,7 +17,7 @@ app.use(cookieParser());
 
 // Update CORS configuration
 const corsOptions = {
-  origin: 'https://netlfix-clone-gagan.netlify.app',
+  origin: 'http://localhost:3000',
   credentials: true,
   optionsSuccessStatus: 200, // For legacy browser support
 };
